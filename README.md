@@ -1,6 +1,6 @@
 # BTEC-680-Fall-2025
 
-CSCI455 Learning Objectives [# Data-Science-Fall2022, 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science-4-credit-sprin-2) Date created/updated: Aptil, 9, 2025.
+CSCI 455 Learning Objectives [# Data-Science-Fall2022, 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science-4-credit-sprin-2) Date created/updated: April, 9, 2025.
 Data Science (Data wrangling, visualization, Machine Learning QDA, LDA, ROC, Decision Trees, Regularization, Text Analysis Feature Engineering, Classification and Model Evaluation, Regression: Basics and Prediction, Evaluation and Interpretation, Clustering, etc.). Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, data wrangling, Post Hoc Test, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA). Data wrangling and handling.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 ![download](https://github.com/user-attachments/assets/4d827c18-193c-41eb-add0-d7c2bc7e34ed)
