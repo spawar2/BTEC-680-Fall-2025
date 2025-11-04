@@ -90,3 +90,6 @@ https://pypi.org/project/openai/0.26.5/
 https://docs.python.org/3/library/tkinter.html
 https://docs.fast.ai/
 https://pypi.org/project/torchvision/
+
+
+(Compound noun titles)
