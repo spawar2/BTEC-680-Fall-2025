@@ -26,7 +26,7 @@ https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024
 STAT 341 (3 credit) Summer 2024 (4 students) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
-selected function(mlv, library, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot, head(), table()).
+selected function(mlv, library, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot, head(), table()). Phylogenetic-Analysis.R
 Probability-distributions-functions.R
 First-R-Program.R
 Data-Wrangling-Post-Hoc-Test.rtf
