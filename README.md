@@ -1,5 +1,5 @@
 # BTEC 680
-Date created/updated: December, 9, 2025.
+Date created/updated: December, 9, 2025. Class Location: James S. Thomas (JST) Building 225, 400 Magnolia St, Claflin University, South Carolina, USA; Timings: Monday-Friday, 10AM-5PM.
 Learning Objectives [# BTEC 680 3 Credits, Data Science](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341-3-credit-spring-202).
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, variable types (qualitative, quantitative), distribution properties, discrete & continuous types, R functions, probability distributions, tests of statistical significance like ANOVA, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square test), Analysis of Variance (ANOVA), data wrangling, Post Hoc Test. Data wrangling and handling. Custom functions in R. Data Visualization (BoxPlots, Scatter Plots).
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
